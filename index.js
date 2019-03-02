@@ -1,4 +1,4 @@
 //Your code here
-function justInvoke(callBack){
-  return callBack;
+function justInvoke(fn){
+  return fn;
 }
